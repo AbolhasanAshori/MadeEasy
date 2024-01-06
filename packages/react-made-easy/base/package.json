@@ -1,0 +1,23 @@
+{
+  "name": "@react-made-easy/base",
+  "version": "0.0.1",
+  "description": "React made easy base library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbolhasanAshori/MadeEasy.git",
+    "directory": "packages/react-made-easy/base"
+  },
+  "keywords": [
+    "made-easy",
+    "react-made-easy",
+    "react",
+    "next",
+    "nextjs"
+  ],
+  "author": "Abolhasan Ashori <abolhasan.ashori@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbolhasanAshori/MadeEasy/issues"
+  },
+  "homepage": "https://github.com/AbolhasanAshori/MadeEasy#readme"
+}

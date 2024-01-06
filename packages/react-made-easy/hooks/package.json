@@ -1,0 +1,25 @@
+{
+  "name": "@react-made-easy/hooks",
+  "version": "0.0.1",
+  "description": "React made easy hook collection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbolhasanAshori/MadeEasy.git",
+    "directory": "packages/react-made-easy/hooks"
+  },
+  "keywords": [
+    "made-easy",
+    "react-made-easy",
+    "hooks",
+    "react",
+    "react-hooks",
+    "next",
+    "nextjs"
+  ],
+  "author": "Abolhasan Ashori <abolhasan.ashori@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbolhasanAshori/MadeEasy/issues"
+  },
+  "homepage": "https://github.com/AbolhasanAshori/MadeEasy#readme"
+}
